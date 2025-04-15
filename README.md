@@ -1,14 +1,15 @@
-### 👋 Hi, I'm Isaac
+<img src="IOA3.png" width="750" height="200">
+<h1 align="left">👋 Hi, I'm Isaac</h1>
 I'm a Data Scientist driven by a passion for transforming data into meaningful insights that fuel impactful decisions. With a strong focus on data-driven decision-making, I specialize in SQL, Python, R, Artificial Intelligence, and Machine Learning. My work revolves around uncovering patterns, building intelligent models, and delivering actionable outcomes.
 
 I'm continuously exploring advancements in AI, predictive analytics, and optimization techniques to tackle complex business challenges and drive innovation.
 
-### My Tech Stack : 
+### My Tech Stack 
 💻 **Languages / Tools**: Python (Pandas, NumPy, Scikit-Learn), SQL, R, SPSS, Power BI, Tableau ·  
 📊 **Expertise**: Data Analysis · Machine Learning · Business Intelligence · Data Visualization ·  
 🛠 **Interests**: AI-driven systems · Machine Learning Algorithms · Statistical Modelling
 
-### What I Do :  
+### What I Do  
 🚀 Build end-to-end data solutions for business strategy & growth · 📈 Create predictive models · 🔎 Automate reporting & analytics · 🎨 Design interactive dashboards
 
 ### 📫 Let's Connect!  
