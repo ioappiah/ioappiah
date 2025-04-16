@@ -4,16 +4,16 @@ I'm a Data Scientist driven by a passion for transforming data into meaningful i
 
 I'm continuously exploring advancements in AI, predictive analytics, and optimization techniques to tackle complex business challenges and drive innovation.
 
-### My Tech Stack 
+My Tech Stack 
 💻 **Languages / Tools**: Python (Pandas, NumPy, Scikit-Learn), SQL, R, SPSS, Power BI, Tableau ·  
 📊 **Expertise**: Data Analysis · Machine Learning · Business Intelligence · Data Visualization ·  
 🛠 **Interests**: AI-driven systems · Machine Learning Algorithms · Statistical Modelling
 
-### What I Do  
+What I Do  
 🚀 Build end-to-end data solutions for business strategy & growth · 📈 Create predictive models · 🔎 Automate reporting & analytics · 🎨 Design interactive dashboards
 
-### 📫 Let's Connect!
-📩 My [Email](aappiahoa@gmail.com)  
+📫 Let's Connect!
+📩 My [Email](https://aappiahoa@gmail.com)  
 🔗 [GitHub](https://github.com/ioappiah) | [LinkedIn](https://www.linkedin.com/in/isaac-owusu-appiah/) | [Kaggle](https://www.kaggle.com/isaacappiah) | [Website](https://www.ioappiah.com)
 
 #
