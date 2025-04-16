@@ -1,4 +1,4 @@
-### Hello! I'm Isaac.
+Hello! I'm Isaac.
 
 I'm a Data Scientist driven by a passion for transforming data into meaningful insights that fuel impactful decisions. With a strong focus on data-driven decision-making, I specialize in SQL, Python, R, Artificial Intelligence, and Machine Learning. My work revolves around uncovering patterns, building intelligent models, and delivering actionable outcomes.
 
