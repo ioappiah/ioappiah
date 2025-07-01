@@ -1,6 +1,6 @@
-Hello! I'm Isaac.
+Hi there 👋.
 
-I'm a Data Scientist driven by a passion for transforming data into meaningful insights that fuel impactful decisions. With a strong focus on data-driven decision-making, I specialize in SQL, Python, R, Artificial Intelligence, and Machine Learning. My work revolves around uncovering patterns, building intelligent models, and delivering actionable outcomes.
+My name is Cobena Isaac. I'm a Data Scientist driven by a passion for transforming data into meaningful insights that fuel impactful decisions. With a strong focus on data-driven decision-making, I specialize in SQL, Python, R, Artificial Intelligence, and Machine Learning. My work revolves around uncovering patterns, building intelligent models, and delivering actionable outcomes.
 
 I'm continuously exploring advancements in AI, predictive analytics, and optimization techniques to tackle complex business challenges and drive innovation.
 
