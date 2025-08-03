@@ -10,7 +10,7 @@ I'm continuously exploring advancements in AI, predictive analytics, and optimiz
 
 #### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennethleungty) [![Calendly](https://img.shields.io/badge/Calendly-Let's%20chat!-brightgreen?style=for-the-badge&logo=googlechat)](https://calendly.com/cobena/chat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-owusu-appiah) [![Calendly](https://img.shields.io/badge/Calendly-Let's%20chat!-brightgreen?style=for-the-badge&logo=googlechat)](https://calendly.com/cobena/chat)
 
 ---
 #### Portfolio Contents
