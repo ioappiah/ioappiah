@@ -3,14 +3,14 @@
 My name is Cobena Isaac. I'm a Data Scientist driven by a passion for transforming data into meaningful insights that fuel impactful decisions. With a strong focus on data-driven decision-making, I specialize in SQL, Python, R, Artificial Intelligence, and Machine Learning. My work revolves around uncovering patterns, building intelligent models, and delivering actionable outcomes.
 
 I'm continuously exploring advancements in AI, predictive analytics, and optimization techniques to tackle complex business challenges and drive innovation.
-- I welcome you to join me on a journey of data science discovery! Follow me on [GitHub](https://github.com/ioappiah), [Website](https://www.ioappiah.com), [Substack](https://substack.com/@ioappiah), and [LinkedIn](https://linkedin.com/in/isaac-owusu-appiah) to stay updated with more engaging and practical content.
+- I welcome you to join me on a journey of data science discovery! Follow me on [GitHub](https://github.com/ioappiah), [Website](https://www.ioappiah.com), [Substack](https://substack.com/@ioappiah), and [LinkedIn](https://linkedin.com/in/ioappiah) to stay updated with more engaging and practical content.
 - You can find my data science portfolio here, where every project and article was born out of inspiration, curiosity, and motivation. Feel free to connect for a chat (coffee or virtual) to discuss shared interests and topics!
 
 ![Project Count](https://komarev.com/ghpvc/?username=ioappiah&color=green) ![Project Count](https://img.shields.io/static/v1?label=Project+count&message=30&color=2ea44f) ![GitHub stars](https://img.shields.io/github/stars/ioappiah?affiliations=OWNER&style=social)
 
 #### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-owusu-appiah) [![Calendly](https://img.shields.io/badge/Calendly-Let's%20chat!-brightgreen?style=for-the-badge&logo=googlechat)](https://calendly.com/cobena/chat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ioappiah) [![Calendly](https://img.shields.io/badge/Calendly-Let's%20chat!-brightgreen?style=for-the-badge&logo=googlechat)](https://calendly.com/cobena/chat)
 
 ---
 #### Portfolio Contents
